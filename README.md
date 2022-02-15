@@ -10,6 +10,12 @@ In this program you will be writing a program to build a tree and print it using
 Instructions:
 In this project, there are three ways to run this program. Using the below commands inside a terminal or prompt will execute the specific task associated with that command.
 
+- To begin:
+--- Run `make` which will generate the scripts inside our `makefile`.
+
+- To delete:
+--- Run `make clean` which will reset back to original.
+
 - Build using input:
 --- `./P0 {input}` - This takes an input from the user. Once you've completed the input, cancel out the current input session.
 
