@@ -14,10 +14,10 @@ In this project, there are three ways to run this program. Using the below comma
 --- `./P0 {input}` - This takes an input from the user. Once you've completed the input, cancel out the current input session.
 
 - Build using file:
---- `./P0 file` - Input the file name WITHOUT the extensions, since this can be bypassed and is handled in the code.
+--- `./P0 file` - Input the file name WITHOUT the extensions, since this can be bypassed and is handled in the code. This will output the file name along with the extensions.
 
 - Build using redirection:
---- `./P0 < file.sp2022` - Input the file name WITH the extension, since this isn't handled in the code.
+--- `./P0 < file.sp2022` - Input the file name WITH the extension, since this isn't handled in the code. This will output files based on the output string with extensions.
 
 Details:
 The inputs are accounted to handle numbers also based on the same file inputs provided, along with additional strings.
